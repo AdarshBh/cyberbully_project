@@ -1,4 +1,4 @@
-punkt
-averaged_perceptron_tagger_eng
-wordnet
-stopwords
+'punkt'
+'averaged_perceptron_tagger_eng'
+'wordnet'
+'stopwords'
