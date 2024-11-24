@@ -1,4 +1,4 @@
-nltk
+NLTK Downloader 
 fastapi
 uvicorn
 pydantic
